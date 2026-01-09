@@ -10,6 +10,9 @@ https://hackmd.io/@jV70y7RFSwijA6xY1zmK_w/SJATtEYNbl
 
 https://hackmd.io/@jV70y7RFSwijA6xY1zmK_w/HJIw9ftVWg
 
+# 強化學習
+https://hackmd.io/fgOxD57xQjmDTzr8xB-23w
+
 # 平行程式
 https://hackmd.io/@jV70y7RFSwijA6xY1zmK_w/ByJ4HZ3VZx
 
