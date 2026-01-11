@@ -1,2 +1,2 @@
 Techniques Portofolio
-https://hackmd.io/Z2MTAwUPRuuRBcUcFGcgJQ
+https://bit.ly/jhbai_tech_port
